@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi, I'm Anoop Vishwakarma 👋
 
-<!--
-**kumarvishwakarmaanoop68-afk/kumarvishwakarmaanoop68-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma IT Student  
+💻 Learning Python, C++, Full Stack Development & DSA  
+🤖 Currently exploring AI/ML  
+🚀 Building projects and improving every day
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🎓 Diploma in Information Technology
+- 🐍 Currently learning Python
+- ⚡ Practicing C++ and DSA
+- 🌐 Learning Full Stack Development
+- 🤖 Future goal: AI/ML Engineer
+- 📚 Believe in learning by building projects
+
+## 🛠️ Skills I'm Learning
+
+### Programming
+- Python
+- C++
+- JavaScript
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- Full Stack Development
+
+### Computer Science
+- Data Structures & Algorithms
+- DBMS
+- Operating Systems
+- Software Engineering
+
+### Future
+- Machine Learning
+- Artificial Intelligence
+- Django
+- APIs
+- Cloud & DevOps
+
+## 📌 Current Focus
+
+```text
+Python
+   ↓
+Problem Solving
+   ↓
+C++ + DSA
+   ↓
+Full Stack Development
+   ↓
+AI/ML
+   ↓
+Real World Projects
+```
+
+## 🚀 Projects
+
+| Project | Technology | Status |
+|---|---|---|
+| Python Learning Journey | Python | 🟢 Learning |
+| C++ DSA | C++ | 🔵 Coming Soon |
+| Portfolio Website | HTML/CSS/JS | 🔵 Coming Soon |
+| AI/ML Projects | Python | 🔵 Coming Soon |
+
+## 📈 My Goal
+
+> Learn consistently, build real projects, and become a strong Software Engineer / AI-ML Engineer.
+
+## 📫 Connect With Me
+
+📍 Lucknow, India
+
+⭐ Thanks for visiting my profile!
